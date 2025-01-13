@@ -1,0 +1,2 @@
+# Hurst-Exponent
+ 
