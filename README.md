@@ -13,7 +13,7 @@
 
 ## Computation of Hurst Exponent of the LBG Stock. 
 
-![LBGExample](https://github.com/JMarOve/Hurst-Exponent/blob/outputs/LloydsHurst.png)
+![LBGExample](https://github.com/JMarOve/Hurst-Exponent/blob/main/Outputs/LloydsHurst.png)
 
 
 
